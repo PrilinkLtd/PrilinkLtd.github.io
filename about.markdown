@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![dashboards]({{ site.url }}/assets/images/aboutus-dashboards-171113.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Established in 1995, Prilink provides Network Traffic Analytics for businesses to ensure their networks perform as per their expectations in today’s highly connected environment. Our solutions are lightweight and can be deployed in the cloud, data centres, and onsite in a few minutes. Customers get traffic clarity, QoS insights, and answers that elevate their operations to new heights.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Visit [prilink.com](https://prilink.com/) for more info.
